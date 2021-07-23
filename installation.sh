@@ -18,7 +18,10 @@ pip install ninja  # not required but strongly recommended
 
 git clone -b pykaldi https://github.com/pykaldi/clif
 
+cd ..
 git clone -b pykaldi https://github.com/pykaldi/kaldi
+
+cd pykaldi
 
 sudo apt install sox
 
